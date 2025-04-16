@@ -6,7 +6,7 @@
       "name": "PetalburgCity_Layout",
       "width": 30,
       "height": 30,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_Primary2",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/PetalburgCity/border.bin",
       "blockdata_filepath": "data/layouts/PetalburgCity/map.bin"
@@ -4410,6 +4410,16 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_NUVEMA_TOWN",
+      "name": "NuvemaTown_Layout",
+      "width": 36,
+      "height": 28,
+      "primary_tileset": "gTileset_Primary2",
+      "secondary_tileset": "gTileset_Nuvema",
+      "border_filepath": "data/layouts/NuvemaTown/border.bin",
+      "blockdata_filepath": "data/layouts/NuvemaTown/map.bin"
     }
   ]
 }
