@@ -4420,6 +4420,16 @@
       "secondary_tileset": "gTileset_Nuvema",
       "border_filepath": "data/layouts/NuvemaTown/border.bin",
       "blockdata_filepath": "data/layouts/NuvemaTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_NUVEMA_TOWN_PLAYER_HOUSE_2F",
+      "name": "NuvemaTown_PlayerHouse_2F_Layout",
+      "width": 9,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/NuvemaTown_PlayerHouse_2F/border.bin",
+      "blockdata_filepath": "data/layouts/NuvemaTown_PlayerHouse_2F/map.bin"
     }
   ]
 }

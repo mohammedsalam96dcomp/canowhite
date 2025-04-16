@@ -1156,3 +1156,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/scripts/dexnav.inc"
 
 	.include "data/maps/NuvemaTown/scripts.inc"
+
+	.include "data/maps/NuvemaTown_PlayerHouse_2F/scripts.inc"
