@@ -986,7 +986,7 @@ static void Task_EvolutionScene(u8 taskId)
                     if (IsMoveHM(move))
                     {
                         // Can't forget HMs
-                        BattleStringExpandPlaceholdersToDisplayedString(gBattleStringsTable[STRINGID_HMMOVESCANTBEFORGOTTEN]);
+                        BattleStringExpandPlaceholdersToDisplayedString(gBattleStringsTable[STRINGID_HMMOVESCANTBEFORGOTTEN - BATTLESTRINGS_TABLE_START]);
                         BattlePutTextOnWindow(gDisplayedStringBattle, B_WIN_MSG);
                         gTasks[taskId].tLearnMoveState = MVSTATE_RETRY_AFTER_HM;
                     }
